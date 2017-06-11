@@ -1,0 +1,299 @@
+newmtl CG:CG:CG:CG:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd deng.jpg
+Ni 1.00
+newmtl CG:CG:CG:CG:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mucai2.jpg
+Ni 1.00
+newmtl CG:CG:CG:CG:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dalishi.jpg
+Ni 1.00
+newmtl CG:CG:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fangding.jpg
+Ni 1.00
+newmtl CG:CG:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd deng.jpg
+Ni 1.00
+newmtl CG:CG:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mucai.jpg
+Ni 1.00
+newmtl CG:CG:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mucai2.jpg
+Ni 1.00
+newmtl CG:CG:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd huapen.jpg
+Ni 1.00
+newmtl CG:CG:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd huapen.jpg
+Ni 1.00
+newmtl CG:CG:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mucai2.jpg
+Ni 1.00
+newmtl CG:CG:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mucai2.jpg
+Ni 1.00
+newmtl CG:CG:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fangding.jpg
+Ni 1.00
+newmtl CG:CG:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dalishi.jpg
+Ni 1.00
+newmtl CG:CG:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd men.jpg
+Ni 1.00
+newmtl CG:CG:lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tips.jpg
+Ni 1.00
+newmtl CG:CG:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd key.jpg
+Ni 1.00
+newmtl CG:blinn1SG
+illum 4
+Kd 0.27 0.52 0.58
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl CG:cornBushy2FlowerShaderSG
+illum 4
+Kd 0.35 0.31 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.28 0.25 0.23
+Ns 1.19
+newmtl CG:cornBushy2LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1.19
+newmtl CG:cornBushy2ShaderSG
+illum 4
+Kd 0.07 0.07 0.06
+Ka 0.00 0.00 0.00
+Tf 0.32 0.32 0.32
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 1.19
+newmtl CG:cornBushy3FlowerShaderSG
+illum 4
+Kd 0.35 0.31 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.28 0.25 0.23
+Ns 1.19
+newmtl CG:cornBushy3LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1.19
+newmtl CG:cornBushy3ShaderSG
+illum 4
+Kd 0.07 0.07 0.06
+Ka 0.00 0.00 0.00
+Tf 0.32 0.32 0.32
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 1.19
+newmtl CG:lambert3SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CG:lambert4SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CG:lambert6SG
+illum 4
+Kd 0.12 0.12 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CG:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chuanglian.jpg
+Ni 1.00
+newmtl CG:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd qiang3.jpg
+bump qiang3-bump.jpg -bm 0.0322581
+Ni 1.00
+newmtl CG:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd qiang3.jpg
+bump qiang3-bump.jpg -bm 0.032
+Ni 1.00
+newmtl CG:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd qiang3-bump.jpg
+bump qiang3-bump.jpg -bm 0.05
+Ni 1.00
+newmtl CG:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd qiang3.jpg
+bump qiang3-bump.jpg -bm 0.03
+Ni 1.00
+newmtl CG:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd diban.jpg
+bump diban-bump.jpg -bm -0.612903
+Ni 1.00
+newmtl CG:lambert14SG
+illum 4
+Kd 0.06 0.03 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CG:oceanShader1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl CG:phong3SG
+illum 4
+Kd 0.81 0.81 0.81
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CG:phongE1SG
+illum 4
+Kd 0.03 0.02 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fengjinghua.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ka.jpg
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ball.jpg
+bump ball-bump.jpg -bm -0.419355
+Ni 1.00
+newmtl phong2SG
+illum 4
+Kd 1.00 0.87 0.22
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cola.jpg
+bump cola-bump.jpg -bm 0.16129
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
